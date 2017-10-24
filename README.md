@@ -2,7 +2,7 @@
 
 Vanilla js budget app with html5 local storage -> [Demo](https://fromtexas.github.io/budget-app/)
 
-![budgety](https://image.ibb.co/dkN4t6/budgety.png)
+![budgety](https://image.ibb.co/coqk0m/budgety.png)
 
 ## Features
 
